@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.billy.dev/</loc>
+    <loc>https://billy.dev/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.billy.dev/categories/</loc>
+    <loc>https://billy.dev/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.billy.dev/tags/</loc>
+    <loc>https://billy.dev/tags/</loc>
     <priority>0</priority>
   </url>
   
