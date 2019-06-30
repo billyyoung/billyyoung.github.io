@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://byoung.me/</loc>
+    <loc>https://blog.billy.dev/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://byoung.me/categories/</loc>
+    <loc>https://blog.billy.dev/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://byoung.me/tags/</loc>
+    <loc>https://blog.billy.dev/tags/</loc>
     <priority>0</priority>
   </url>
   

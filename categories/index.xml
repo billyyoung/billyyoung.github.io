@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Billy&#39;s Test Site</title>
-    <link>http://byoung.me/categories/</link>
-    <description>Recent content in Categories on Billy&#39;s Test Site</description>
+    <title>Categories on Billy&#39;s Blog</title>
+    <link>https://blog.billy.dev/categories/</link>
+    <description>Recent content in Categories on Billy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://byoung.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.billy.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
