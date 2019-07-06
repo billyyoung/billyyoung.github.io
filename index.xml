@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Billy&#39;s Blog</title>
+    <title>Ramblings</title>
     <link>https://billy.dev/</link>
-    <description>Recent content on Billy&#39;s Blog</description>
+    <description>Recent content on Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 02:54:36 -0700</lastBuildDate>
     
 	<atom:link href="https://billy.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://billy.dev/posts/coming-soon/</link>
+      <pubDate>Sat, 06 Jul 2019 02:54:36 -0700</pubDate>
+      
+      <guid>https://billy.dev/posts/coming-soon/</guid>
+      <description>I&amp;rsquo;m currently working on a first post!
+In the meantime, here&amp;rsquo;s a bit about me and here are some of my favourite links.</description>
+    </item>
+    
+    <item>
+      <title>LINKS</title>
+      <link>https://billy.dev/links/</link>
+      <pubDate>Sat, 06 Jul 2019 02:39:46 -0700</pubDate>
+      
+      <guid>https://billy.dev/links/</guid>
+      <description>I like reading things that bring joy to myself and others, or teach me how to better do so. Here are some of those things.
+Also consider following all of these awesome people on Twitter!
+6am (Riva-Melissa Tez) - A reflection on how much there is to marvel at and learn about and do. Big mood.
+&amp;ldquo;It’s a weird paradox to be so in awe with life that it leaves you detached from important sleep.</description>
+    </item>
     
   </channel>
 </rss>

@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://billy.dev/</loc>
+    <loc>https://billy.dev/posts/coming-soon/</loc>
+    <lastmod>2019-07-06T02:54:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://billy.dev/posts/</loc>
+    <lastmod>2019-07-06T02:54:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://billy.dev/categories/</loc>
+    <loc>https://billy.dev/</loc>
+    <lastmod>2019-07-06T02:54:36-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://billy.dev/links/</loc>
+    <lastmod>2019-07-06T02:39:46-07:00</lastmod>
   </url>
   
   <url>
