@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ramblings</title>
+    <title>Billy&#39;s Thoughts</title>
     <link>https://billy.dev/</link>
-    <description>Recent content on Ramblings</description>
+    <description>Recent content on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jul 2019 02:54:36 -0700</lastBuildDate>
@@ -31,6 +31,22 @@ In the meantime, here&amp;rsquo;s a bit about me and here are some of my favouri
 Also consider following all of these awesome people on Twitter!
 6am (Riva-Melissa Tez) - A reflection on how much there is to marvel at and learn about and do. Big mood.
 &amp;ldquo;It’s a weird paradox to be so in awe with life that it leaves you detached from important sleep.</description>
+    </item>
+    
+    <item>
+      <title>BILLY YOUNG</title>
+      <link>https://billy.dev/start-here/</link>
+      <pubDate>Sat, 06 Jul 2019 02:30:31 -0700</pubDate>
+      
+      <guid>https://billy.dev/start-here/</guid>
+      <description>My motivations, in the simplest terms: bring joy to others, and bring joy to myself.
+Thanks for visiting my fledgeling corner of the Internet.
+Here you&amp;rsquo;ll find posts about: thinking, learning, music, education, personality, and tech.
+ABOUT I&amp;rsquo;m a Software Engineer at Wish in San Francisco, CA
+Tenor in Internote, the Bay Area&amp;rsquo;s inter-tech company a cappella group
+University of Waterloo alum
+Originally from Windsor, ON, Canada
+Enneagram 4,5 and INTJ-T</description>
     </item>
     
   </channel>
