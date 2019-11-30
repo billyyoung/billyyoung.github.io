@@ -6,10 +6,21 @@
     <description>Recent content on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2019 22:26:03 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2019 14:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://billy.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tokyo - Food, Coffee, Games</title>
+      <link>https://billy.dev/posts/tokyo-2019/</link>
+      <pubDate>Sat, 30 Nov 2019 14:00:00 -0800</pubDate>
+      
+      <guid>https://billy.dev/posts/tokyo-2019/</guid>
+      <description>In the span of two weeks, 3 friends asked me for Tokyo recommendations from my trip earlier this year. So I&amp;rsquo;m putting those recommendations here as a sort of log / for future reference.
+Here are some general tips on how to travel to Tokyo. The rest is all about food, coffeeshops, and games (the majority of time spent during my recent trip).
+Inspired by my friends&amp;rsquo; recs (thanks Ophelia), The Cup and the Road blog, and the random Swiss guy who told me about Kanemasu over tempura.</description>
+    </item>
     
     <item>
       <title>The Minimum Viable Blog</title>
@@ -50,12 +61,10 @@ Also consider following all of these awesome people on Twitter!
       
       <guid>https://billy.dev/start-here/</guid>
       <description>Thanks for visiting my fledgeling corner of the Internet.
-My motivations, in the simplest terms: bring joy to others, and bring joy to myself.
+My motivations, in the simplest terms: become the best version of myself I can be, bring joy to others, and bring joy to myself.
 Here you&amp;rsquo;ll find posts about: thinking, learning, music, education, personality, and tech.
 About I&amp;rsquo;m a Software Engineer at Wish in San Francisco, CA
 Tenor in Internote, the Bay Area&amp;rsquo;s inter-tech company a cappella group
-University of Waterloo alum
-Originally from Windsor, ON, Canada
 Enneagram 4/5 and INTJ-T</description>
     </item>
     
