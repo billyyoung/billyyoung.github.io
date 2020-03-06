@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2019 14:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 19:45:00 -0700</lastBuildDate>
     
 	<atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exponential Growth, and Viruses</title>
+      <link>https://billy.dev/posts/exponential-growth-and-viruses/</link>
+      <pubDate>Thu, 05 Mar 2020 19:45:00 -0700</pubDate>
+      
+      <guid>https://billy.dev/posts/exponential-growth-and-viruses/</guid>
+      <description>&amp;ldquo;On Day 1 you start with 1 penny. On Day 2 you double it and have 2 pennies. On Day 3 you double that and have 4 pennies. Repeat. How much money do you have on Day 30?&amp;rdquo;
+Most people have been asked this question at one point or another.
+It’s memorable; in part because the idea of doubling the size of your bank account day after day sounds like something you’d sign up for.</description>
+    </item>
     
     <item>
       <title>Tokyo - Food, Coffee, Games</title>
