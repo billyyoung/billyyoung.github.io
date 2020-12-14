@@ -132,6 +132,14 @@
 
 <p>Thankfully I&rsquo;m not the first person who&rsquo;s been in this situation, and I found a handy <a href="https://medium.com/@trionkidnapper/ssh-keys-with-multiple-github-accounts-c67db56f191e" target="_blank">post</a> on setting up multiple SSH keys and your SSH config to use the correct credentials based on the repo you&rsquo;re looking at.  Note: the <a>me.github.com</a> mentioned in the post should be <a>&lt;your_username&gt;.github.com</a>.</p>
 
+<p>Once your project is using the correct SSH keys, update the git config of your local repo with the correct username and email:</p>
+
+<p><code>
+cd /path/to/local_repo<br />
+git config &ndash;local user.name &ldquo;your_username&rdquo;<br />
+git config &ndash;local user.email &ldquo;your_email&rdquo;<br />
+</code></p>
+
 <h3 id="step-2-5-configuring-a-custom-domain">Step 2/5: Configuring a custom domain</h3>
 
 <p><em><strong>Goals:</strong> branding and clout</em></p>
