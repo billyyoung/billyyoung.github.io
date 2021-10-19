@@ -1,62 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://billy.dev/</loc>
+    <loc>https://billy.dev/competitive-games-are-fun/</loc>
+    <lastmod>2021-10-19T01:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://billy.dev/coffee/</loc>
     <lastmod>2021-01-31T11:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/posts/coffee/</loc>
-    <lastmod>2021-01-31T11:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/posts/</loc>
-    <lastmod>2021-01-31T11:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/posts/vtubers/</loc>
+  </url><url>
+    <loc>https://billy.dev/vtubers/</loc>
     <lastmod>2020-10-01T01:55:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/posts/exponential-growth-and-viruses/</loc>
+  </url><url>
+    <loc>https://billy.dev/exponential-growth-and-viruses/</loc>
     <lastmod>2020-03-05T19:45:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/posts/tokyo-2019/</loc>
+  </url><url>
+    <loc>https://billy.dev/tokyo-2019/</loc>
     <lastmod>2019-11-30T14:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/posts/minimum-viable-blog/</loc>
+  </url><url>
+    <loc>https://billy.dev/minimum-viable-blog/</loc>
     <lastmod>2019-09-02T22:26:03-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/posts/coming-soon/</loc>
+  </url><url>
+    <loc>https://billy.dev/coming-soon/</loc>
     <lastmod>2019-07-06T02:54:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/links/</loc>
-    <lastmod>2019-07-06T02:39:46-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://billy.dev/start-here/</loc>
-    <lastmod>2019-07-06T02:30:31-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://billy.dev/</loc>
+  </url><url>
     <loc>https://billy.dev/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
