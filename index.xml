@@ -5,22 +5,23 @@
     <link>https://billy.dev/</link>
     <description>Recent content on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://billy.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Oct 2021 23:30:00 -0700</lastBuildDate><atom:link href="https://billy.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Leisurely Weekend</title>
-      <link>https://billy.dev/a-leisurely-weekend/</link>
+      <link>https://billy.dev/posts/a-leisurely-weekend/</link>
       <pubDate>Tue, 26 Oct 2021 23:30:00 -0700</pubDate>
       
-      <guid>https://billy.dev/a-leisurely-weekend/</guid>
+      <guid>https://billy.dev/posts/a-leisurely-weekend/</guid>
       <description>I spent the past weekend in absolute satisfaction. In Flow. Time rushed by, yet I was immersed in each moment. I cooked multiple meals with my roommate (Indian bread rolls and Bombay sandwiches), started and finished season 1 of Ted Lasso, played tennis, and watched the Come From Away musical. I even had time to run some errands, draw, zoom call a twitter friend, and redecorate my apartment a little.</description>
     </item>
     
     <item>
       <title>Competitive Games Are Fun</title>
-      <link>https://billy.dev/competitive-games-are-fun/</link>
+      <link>https://billy.dev/posts/competitive-games-are-fun/</link>
       <pubDate>Tue, 19 Oct 2021 01:00:00 -0700</pubDate>
       
-      <guid>https://billy.dev/competitive-games-are-fun/</guid>
+      <guid>https://billy.dev/posts/competitive-games-are-fun/</guid>
       <description>&amp;ldquo;This game is bullsh*t!&amp;rdquo;
 Anyone who&amp;rsquo;s played video games competitively (League of Legends, Counter-Strike, Fortnite, Street Fighter, etc.) has yelled this into the void at least once. Maybe you were having an off game, maybe your teammates looked like they had no clue what they were doing, or maybe you got stomped by your opponent and you had no idea what you could&amp;rsquo;ve done differently to win.
 Go through this experience enough times (and you will end up here, a lot, given enough time) and you start to question all the hours you&amp;rsquo;ve put in, grinding solo queue.</description>
@@ -28,20 +29,20 @@ Go through this experience enough times (and you will end up here, a lot, given 
     
     <item>
       <title>Food-Efficient: Pour-Over Coffee</title>
-      <link>https://billy.dev/coffee/</link>
+      <link>https://billy.dev/posts/coffee/</link>
       <pubDate>Sun, 31 Jan 2021 11:00:00 -0700</pubDate>
       
-      <guid>https://billy.dev/coffee/</guid>
+      <guid>https://billy.dev/posts/coffee/</guid>
       <description>Last weekend I attended a wonderful Interintellect Salon on Talking about Money, where we talked about everything from the philosophy of money, to why there seems to be so much financial illiteracy, to the credit card ecosystem, to the US Tax Code.
 A recurring point was that good financial advice can be hard to find, and you might not even know where to start looking. And personal finance has been something I&amp;rsquo;ve wanted to write about for a while now.</description>
     </item>
     
     <item>
       <title>This Week&#39;s Inspiration: VTubers</title>
-      <link>https://billy.dev/vtubers/</link>
+      <link>https://billy.dev/posts/vtubers/</link>
       <pubDate>Thu, 01 Oct 2020 01:55:00 -0700</pubDate>
       
-      <guid>https://billy.dev/vtubers/</guid>
+      <guid>https://billy.dev/posts/vtubers/</guid>
       <description>I recently stumbled upon the phenomenon of VTubers, and honestly I&amp;rsquo;m a bit obsessed.
 &amp;quot;Eekum bokum.&amp;quot;
 -Inugami Korone, 2020 pic.twitter.com/DEL4krzKFy
@@ -51,10 +52,10 @@ VTubers, short for Virtual YouTubers, are what you&amp;rsquo;d get if anime char
     
     <item>
       <title>Exponential Growth, and Viruses</title>
-      <link>https://billy.dev/exponential-growth-and-viruses/</link>
+      <link>https://billy.dev/posts/exponential-growth-and-viruses/</link>
       <pubDate>Thu, 05 Mar 2020 19:45:00 -0700</pubDate>
       
-      <guid>https://billy.dev/exponential-growth-and-viruses/</guid>
+      <guid>https://billy.dev/posts/exponential-growth-and-viruses/</guid>
       <description>&amp;ldquo;On Day 1 you start with 1 penny. On Day 2 you double it and have 2 pennies. On Day 3 you double that and have 4 pennies. Repeat. How much money do you have on Day 30?&amp;rdquo;
 Most people have been asked this question at one point or another.
 It’s memorable; in part because the idea of doubling the size of your bank account day after day sounds like something you’d sign up for.</description>
@@ -62,10 +63,10 @@ It’s memorable; in part because the idea of doubling the size of your bank acc
     
     <item>
       <title>Tokyo - Food, Coffee, Games</title>
-      <link>https://billy.dev/tokyo-2019/</link>
+      <link>https://billy.dev/posts/tokyo-2019/</link>
       <pubDate>Sat, 30 Nov 2019 14:00:00 -0800</pubDate>
       
-      <guid>https://billy.dev/tokyo-2019/</guid>
+      <guid>https://billy.dev/posts/tokyo-2019/</guid>
       <description>In the span of two weeks, 3 friends asked me for Tokyo recommendations from my trip earlier this year. So I&amp;rsquo;m putting those recommendations here as a sort of log / for future reference.
 Here are some general tips on how to travel to Tokyo. The rest is all about food, coffeeshops, and games (the majority of time spent during my recent trip).
 Inspired by my friends&amp;rsquo; recs (thanks Ophelia), The Cup and the Road blog, and the random Swiss guy who told me about Kanemasu over tempura.</description>
@@ -73,22 +74,48 @@ Inspired by my friends&amp;rsquo; recs (thanks Ophelia), The Cup and the Road bl
     
     <item>
       <title>The Minimum Viable Blog</title>
-      <link>https://billy.dev/minimum-viable-blog/</link>
+      <link>https://billy.dev/posts/minimum-viable-blog/</link>
       <pubDate>Mon, 02 Sep 2019 22:26:03 -0700</pubDate>
       
-      <guid>https://billy.dev/minimum-viable-blog/</guid>
+      <guid>https://billy.dev/posts/minimum-viable-blog/</guid>
       <description>I&amp;rsquo;ve always been fascinated by how great writers can break apart complex systems, stir up emotions, and build worlds. Writing is an especially important skill now, as we live and breathe email, iMessage, and Slack. Where you can find friends, and even a tribe, solely via Twitter.
 As with anything I find interesting, I wanted to try doing it myself. With writing, though, I wasn&amp;rsquo;t sure where or how to start.</description>
     </item>
     
     <item>
       <title>Coming Soon</title>
-      <link>https://billy.dev/coming-soon/</link>
+      <link>https://billy.dev/posts/coming-soon/</link>
       <pubDate>Sat, 06 Jul 2019 02:54:36 -0700</pubDate>
       
-      <guid>https://billy.dev/coming-soon/</guid>
+      <guid>https://billy.dev/posts/coming-soon/</guid>
       <description>I&amp;rsquo;m currently working on a first post!
 In the meantime, here&amp;rsquo;s a bit about me and here are some of my favourite links.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://billy.dev/links/</link>
+      <pubDate>Sat, 06 Jul 2019 02:39:46 -0700</pubDate>
+      
+      <guid>https://billy.dev/links/</guid>
+      <description>I like reading things that bring joy to myself and others, or teach me how to better do so. Here are some of those things.
+Also consider following all of these awesome people on Twitter!
+6am (Riva-Melissa Tez) &amp;mdash; A reflection on how much there is to marvel at and learn about and do. Big mood.
+&amp;ldquo;It’s a weird paradox to be so in awe with life that it leaves you detached from important sleep.</description>
+    </item>
+    
+    <item>
+      <title>Billy Young</title>
+      <link>https://billy.dev/start-here/</link>
+      <pubDate>Sat, 06 Jul 2019 02:30:31 -0700</pubDate>
+      
+      <guid>https://billy.dev/start-here/</guid>
+      <description>Thanks for visiting my fledgeling corner of the Internet.
+My motivations, in the simplest terms: become the best version of myself I can be, bring joy to others, and bring joy to myself.
+Here you&amp;rsquo;ll find posts about: thinking, learning, music, education, personality, and tech.
+About I&amp;rsquo;m a Software Engineer at Wish in San Francisco, CA
+Tenor in Internote, the Bay Area&amp;rsquo;s inter-tech company a cappella group
+Enneagram 4/5 and INTJ-T</description>
     </item>
     
   </channel>

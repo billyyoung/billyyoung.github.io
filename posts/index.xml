@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Billy&#39;s Thoughts</title>
@@ -6,10 +6,26 @@
     <description>Recent content in Posts on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jan 2021 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 23:30:00 -0700</lastBuildDate><atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Leisurely Weekend</title>
+      <link>https://billy.dev/posts/a-leisurely-weekend/</link>
+      <pubDate>Tue, 26 Oct 2021 23:30:00 -0700</pubDate>
+      
+      <guid>https://billy.dev/posts/a-leisurely-weekend/</guid>
+      <description>I spent the past weekend in absolute satisfaction. In Flow. Time rushed by, yet I was immersed in each moment. I cooked multiple meals with my roommate (Indian bread rolls and Bombay sandwiches), started and finished season 1 of Ted Lasso, played tennis, and watched the Come From Away musical. I even had time to run some errands, draw, zoom call a twitter friend, and redecorate my apartment a little.</description>
+    </item>
     
-	<atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Competitive Games Are Fun</title>
+      <link>https://billy.dev/posts/competitive-games-are-fun/</link>
+      <pubDate>Tue, 19 Oct 2021 01:00:00 -0700</pubDate>
+      
+      <guid>https://billy.dev/posts/competitive-games-are-fun/</guid>
+      <description>&amp;ldquo;This game is bullsh*t!&amp;rdquo;
+Anyone who&amp;rsquo;s played video games competitively (League of Legends, Counter-Strike, Fortnite, Street Fighter, etc.) has yelled this into the void at least once. Maybe you were having an off game, maybe your teammates looked like they had no clue what they were doing, or maybe you got stomped by your opponent and you had no idea what you could&amp;rsquo;ve done differently to win.
+Go through this experience enough times (and you will end up here, a lot, given enough time) and you start to question all the hours you&amp;rsquo;ve put in, grinding solo queue.</description>
+    </item>
     
     <item>
       <title>Food-Efficient: Pour-Over Coffee</title>
