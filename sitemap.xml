@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://billy.dev/</loc>
-    <lastmod>2022-09-12T00:00:00-07:00</lastmod>
+    <loc>https://billy.dev/posts/2022-review/</loc>
+    <lastmod>2022-12-31T21:30:00-05:00</lastmod>
   </url><url>
-    <loc>https://billy.dev/posts/losing-weight/</loc>
-    <lastmod>2022-09-12T00:00:00-07:00</lastmod>
+    <loc>https://billy.dev/</loc>
+    <lastmod>2022-12-31T21:30:00-05:00</lastmod>
   </url><url>
     <loc>https://billy.dev/posts/</loc>
+    <lastmod>2022-12-31T21:30:00-05:00</lastmod>
+  </url><url>
+    <loc>https://billy.dev/posts/losing-weight/</loc>
     <lastmod>2022-09-12T00:00:00-07:00</lastmod>
   </url><url>
     <loc>https://billy.dev/posts/csr/</loc>
