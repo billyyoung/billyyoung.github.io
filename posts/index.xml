@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2024 16:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 16:00:00 -0700</lastBuildDate>
     <atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Stages of Change</title>
+      <link>https://billy.dev/posts/the-stages-of-change/</link>
+      <pubDate>Sat, 23 Mar 2024 16:00:00 -0700</pubDate>
+      <guid>https://billy.dev/posts/the-stages-of-change/</guid>
+      <description>One of my absolute favourite mental models is the one that describes change, called Prochaska&amp;rsquo;s Transtheoretical Model of Behaviour Change.
+Essentially, it describes the stages of change as:
+Pre-contemplation Contemplation Preparation Action Maintenance Pre-contemplation is when you aren&amp;rsquo;t even considering making a change, or you&amp;rsquo;re not aware that you are.
+Contemplation is when you&amp;rsquo;re thinking about change, toying with the idea, making pros/cons lists for fun, etc. &amp;ldquo;What if I was like this instead, what would that be like?</description>
+    </item>
     <item>
       <title>(How to) Love The Grind</title>
       <link>https://billy.dev/posts/love-the-grind/</link>
