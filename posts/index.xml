@@ -6,8 +6,17 @@
     <description>Recent content in Posts on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2024 17:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 20:00:00 -0700</lastBuildDate>
     <atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overthinking: Having a Comments Section</title>
+      <link>https://billy.dev/posts/overthinking/comments/</link>
+      <pubDate>Mon, 05 Aug 2024 20:00:00 -0700</pubDate>
+      <guid>https://billy.dev/posts/overthinking/comments/</guid>
+      <description>I like my static HTML generator blog. It’s slick, it’s lightweight, I think it’s cute. I can render it on my local without an internet connection and write posts on airplanes like I&amp;rsquo;m doing with this one.
+But one thing this blog doesn’t have is a (nice and easy way to set up a) comments section.1
+But also, who tf is even reading this blog lol such that there would be a lively comments section.</description>
+    </item>
     <item>
       <title>Sabbatical Notes #8: Year One</title>
       <link>https://billy.dev/posts/sabbatical-notes/8/</link>
