@@ -6,8 +6,16 @@
     <description>Recent content in Posts on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2024 18:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 10:00:00 +0800</lastBuildDate>
     <atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024: Year In Review</title>
+      <link>https://billy.dev/posts/2024-review/</link>
+      <pubDate>Thu, 26 Dec 2024 10:00:00 +0800</pubDate>
+      <guid>https://billy.dev/posts/2024-review/</guid>
+      <description>See my review of 2023 here.
+If you asked me what I did this year, I wouldn&amp;rsquo;t be able to tell you without having to step through month by month and tug on whatever wisps of memories might still be around. &amp;ldquo;OK January… where was I in January? OK now February…&amp;rdquo; Maybe this is just what it&amp;rsquo;s like to get older. Memories are less sticky and more ethereal. Blink, and a year has gone by.</description>
+    </item>
     <item>
       <title>100 Books</title>
       <link>https://billy.dev/posts/100-books/</link>
