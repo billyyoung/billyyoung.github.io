@@ -6,8 +6,16 @@
     <description>Recent content in Posts on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 20:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 -0700</lastBuildDate>
     <atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mechanics of Indecision</title>
+      <link>https://billy.dev/posts/indecision/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 -0700</pubDate>
+      <guid>https://billy.dev/posts/indecision/</guid>
+      <description>Inspired by these two Dr. K videos
+Preamble: The impetus for this post was that early this year I was in the thick of indecision myself, deciding between if I should stay on sabbatical or apply to grad school (two very different routes!). This post is intended to be a sort of &amp;ldquo;technical reference manual&amp;rdquo; of the thoughts and learnings that eventually helped me resolve my own indecision. And then hopefully it&amp;rsquo;ll make writing my own personal account easier, which I plan to do next.</description>
+    </item>
     <item>
       <title>Early Notes on Meditation</title>
       <link>https://billy.dev/posts/meditation-early-notes/</link>
