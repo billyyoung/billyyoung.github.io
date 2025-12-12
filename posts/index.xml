@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Billy&#39;s Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 23:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 22:00:00 -0800</lastBuildDate>
     <atom:link href="https://billy.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My tips for using AI for therapy</title>
+      <link>https://billy.dev/posts/ai-therapy-2025/</link>
+      <pubDate>Thu, 11 Dec 2025 22:00:00 -0800</pubDate>
+      <guid>https://billy.dev/posts/ai-therapy-2025/</guid>
+      <description>Tested on: Claude Sonnet 4.5, in Dec 2025
+Disclaimer:
+These are my personal tips; from a clinical psychology PsyD student, but also from someone who has gotten a lot of value out of LLMs as a tool for exploring and understanding my own thoughts and feelings.
+This post is intended to be brief, and so there will be many terms and concepts I throw out &amp;ndash; treat those as hyperlinks if you want to learn more.</description>
+    </item>
     <item>
       <title>What Is Motivation?</title>
       <link>https://billy.dev/posts/motivation/</link>
